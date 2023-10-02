@@ -507,3 +507,7 @@ Received Import Request.
 Start importing Assets/Models3D/Prefabs/hamsterball.mat using Guid(3507b05c2ae44414fa5f8492ffbf1507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bc31cd94d6bda354d07631fddb1cf3c') in 0.242247 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

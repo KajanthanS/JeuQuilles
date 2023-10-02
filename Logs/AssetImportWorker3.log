@@ -475,3 +475,7 @@ Received Import Request.
 Start importing Assets/Models3D/Prefabs/cat/textures/Chat1.mat using Guid(75ca53bc4b9773b47b6b0665a1afb05c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ccd3152b3c5db2ed6b809ede4b4cb20') in 0.021057 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
